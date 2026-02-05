@@ -1,0 +1,52 @@
+commit 0a089697f766f34c1ab9832ae4eecb01576558bf
+Merge: 722a7af 3b363e0
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Wed Feb 4 22:20:00 2026 -0800
+
+    Resolve merge conflict
+
+commit 3b363e0ad30028dc4ef107fdbe91a30d094aecf5
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Wed Feb 4 22:12:50 2026 -0800
+
+    Add fave movie
+
+commit 722a7af5d9a41198e3250eb3739d73036a7bd0c5
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Wed Feb 4 22:11:07 2026 -0800
+
+    Add fave food
+
+commit a41aadf3a4abbc0ab8e1991b9442ae3e146af0a9
+Merge: 40e44ae e8de04d
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Fri Jan 30 11:14:45 2026 -0800
+
+    Merge branch 'main' of https://github.com/Dxnoo-o/CS3338-second-project
+
+commit 40e44aec22f316fc6e28394700610aacaffac092
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Fri Jan 30 11:10:29 2026 -0800
+
+    Adding README
+
+commit e8de04d95b431adcbe2053bb1dbe2e997daab2ef
+Merge: 1d2bfc0 cdb7b1c
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Fri Jan 30 11:06:37 2026 -0800
+
+    Merge pull request #1 from Dxnoo-o/info-fill
+    
+    Fill in blanks
+
+commit cdb7b1cc91d65ed23cc2c08a1ec839cf4f16b49e
+Author: Dxnoo-o <nathanlopez800@gmail.com>
+Date:   Fri Jan 30 10:58:20 2026 -0800
+
+    Fill in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
